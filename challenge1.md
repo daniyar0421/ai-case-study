@@ -1,4 +1,4 @@
-~# MODULE 1.1st ASSIGNMENT. 
+# MODULE 1.1st ASSIGNMENT. 
 
 ## Overview and Origin
 
